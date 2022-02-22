@@ -9,6 +9,8 @@ This plugin is designed to run one match at a time, and is therefore designed to
 - BungeeCord support
 - Supports game reset without server shutdown
 - Deathmatch mode to finish maps in reasonable time
+- Voting signs in lobby
+- Lobby and ingame scoreboard
 - District mode: Allows for 12 teams of 2 players
 - Configurable chest contents with Enchantment and Displayname support
 - Spectator menu for easy spectator movement across the arena
