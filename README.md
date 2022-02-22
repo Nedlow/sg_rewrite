@@ -19,7 +19,7 @@ This plugin is designed to run one match at a time, and is therefore designed to
 - Sign-based leaderboard in lobby (IN-PROGRESS)
 - Items with special abilities (IN-PROGRESS)
 - Mulitple chest tiers (Chest=normal,barrel=exclusive)
-- Replacing deathmatch with dynamic world border (Using WorldEdit API)
+- Replacing deathmatch with shrinking world border (Using WorldEdit API)
 - Sponsorship: Let's spectators buy special items for alive players.
 - World Events: Player or location based, eg. zombies or toxic fog.
 ### Setup
